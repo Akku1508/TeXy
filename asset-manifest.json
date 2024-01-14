@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TeXy/static/css/main.94b1ffe3.css",
+    "main.js": "/TeXy/static/js/main.f8d485d8.js",
+    "static/js/787.cb62c1d0.chunk.js": "/TeXy/static/js/787.cb62c1d0.chunk.js",
+    "static/media/logo.svg": "/TeXy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Sun.svg": "/TeXy/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "index.html": "/TeXy/index.html",
+    "static/media/Moon.svg": "/TeXy/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "main.94b1ffe3.css.map": "/TeXy/static/css/main.94b1ffe3.css.map",
+    "main.f8d485d8.js.map": "/TeXy/static/js/main.f8d485d8.js.map",
+    "787.cb62c1d0.chunk.js.map": "/TeXy/static/js/787.cb62c1d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b1ffe3.css",
+    "static/js/main.f8d485d8.js"
+  ]
+}
